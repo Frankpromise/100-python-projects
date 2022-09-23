@@ -1,3 +1,5 @@
+# PARSE JSON FILES
+
 When it comes to using python for #DevOps or #SRE work, parsing files is a common task. Hence, the importance of knowing how to #parse JSON files using #python.
 
 Here is a complete example script that makes use of JSON and #os python module to retrieve the absolute path of a #JSON file, thereafter #looping to print all the keys and values of the JSON file.
