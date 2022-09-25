@@ -19,3 +19,4 @@ Number | Project      | Resources
 3 | [countdown](https://github.com/Frankpromise/100-python-projects/tree/master/count) | python, IDE
 4 | [parse-json](https://github.com/Frankpromise/100-python-projects/tree/master/parse-json) | python, IDE
 5 | [query_database](https://github.com/Frankpromise/100-python-projects/tree/master/query-database) | python, IDE
+6 | [parse-ip-address](https://github.com/Frankpromise/100-python-projects/tree/master/parse-ip-address) | python, IDE
