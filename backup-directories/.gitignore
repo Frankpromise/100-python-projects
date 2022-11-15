@@ -1,0 +1,6 @@
+env/
+*.tfstate
+*.backup
+__pycache__/
+*.hcl
+.terraform/
