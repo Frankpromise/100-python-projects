@@ -21,3 +21,4 @@ Number | Project      | Resources
 5 | [query_database](https://github.com/Frankpromise/100-python-projects/tree/master/query-database) | python, IDE
 6 | [parse-ip-address](https://github.com/Frankpromise/100-python-projects/tree/master/parse-ip-address) | python, IDE
 7 | [backup-directories-to-s3](https://github.com/Frankpromise/100-python-projects/tree/master/backup-directories) | python, IDE
+8 | [autmatic-desktop-cleaner](https://github.com/Frankpromise/100-python-projects/tree/master/automatic-desktop-cleaner) | python, IDE
